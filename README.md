@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikethhebbar
 - 👀 I’m interested in ML and CP...  
-- 🌱 I’m presentky working on my DSA skills.
+- 🌱 I’m presently working on my DSA skills.
 - 💞️ I’m looking to collaborate on any projects.. happy to learn and work
 - 📫 Reach me @ anikethhebbar@gmail.com 
 - 🔷 LinkedIn: https://www.linkedin.com/in/aniketh-hebbar-0188211b0/
