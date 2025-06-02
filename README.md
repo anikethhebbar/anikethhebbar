@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Coding GIF">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aniketh Hebbar</h1>
 <h3 align="center">M.Tech CSE @ MIT, Manipal | AI/ML Engineer | BIRAC E-Yuva Fellow</h3>
 
